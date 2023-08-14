@@ -5,7 +5,7 @@ I’m a software engineer passionate about software development and new technolo
 [LinkedIn](https://www.linkedin.com/in/andres-selles-gonzalez/)
 
 ## Professional Summary
-- 9 years’ IT industry experience with 7 years focusing on mobile development for native Android.
+- 10 years’ IT industry experience with 8 years focusing on mobile development for native Android.
 - Proficient knowledge architecting Android Applications from the ground.
 - Proactive participation in UX/UI design rituals focusing always on pushing Android Material Design best practices and Android User expectations.
 - Fluent in a series of Android design patterns.
